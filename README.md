@@ -1,10 +1,5 @@
 # PWC_Data_Analysis
 
-Certainly! Here’s a GitHub repository description for your Power BI job simulation project:
-
----
-
-# PwC Switzerland - Power BI Job Simulation
 
 ## Overview
 
